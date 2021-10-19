@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "clean": "^4.0.2",
+    "core-util-is": "^1.0.3",
+    "vue": "^2.6.14",
+    "vue-cli": "^2.9.6",
+    "vuejs": "^3.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.57.1",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.3.1"
+  }
+}
